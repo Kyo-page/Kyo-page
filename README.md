@@ -4,11 +4,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyo-page&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyo-page&theme=react&utcOffset=9)
 
-<img
-  src="https://github.com/Kyo-page/Kyo-page/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C941%20hrs%201%20min-blue?style=flat)
 
