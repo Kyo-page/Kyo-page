@@ -2,7 +2,6 @@ name: Waka Readme
 
 on:
   schedule:
-    # 毎日 日本時間 3:30（UTC 18:30）
     - cron: "30 18 * * *"
   workflow_dispatch:
 
@@ -11,10 +10,9 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
