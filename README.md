@@ -5,6 +5,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyo-page&theme=react&utcOffset=9)
 
 <img
-  src="https://github.com/Kyo-page/Kyo-page/images/stat.svg"
+  src="https://github.com/Kyo-page/Kyo-page/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
