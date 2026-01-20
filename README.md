@@ -3,4 +3,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kyo-page&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyo-page&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyo-page&theme=react&utcOffset=9)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kyo-page&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
