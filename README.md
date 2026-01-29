@@ -5,28 +5,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyo-page&theme=react&utcOffset=9)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C971%20hrs%2011%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.86%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                34 commits          ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌆 Daytime                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-🌃 Evening                46 commits          ██████████░░░░░░░░░░░░░░░   39.66 % 
-🌙 Night                  25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Tuesday                  51 commits          ███████████░░░░░░░░░░░░░░   43.97 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Thursday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,5 +43,5 @@ TypeScript               2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kyo-page/Kyo-page/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 03:38:39 UTC
+ Last Updated on 29/01/2026 03:42:56 UTC
 <!--END_SECTION:waka-->
