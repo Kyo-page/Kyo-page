@@ -5,6 +5,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyo-page&theme=react&utcOffset=9)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2031%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -13,17 +15,17 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.09 % 
-SCSS                     5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-HTML                     4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-PHP                      3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript               7 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
+SCSS                     6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+HTML                     3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+PHP                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Cursor                   26 hrs 9 mins       █████████████████████████   100.00 % 
+Cursor                   21 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -41,5 +43,5 @@ CSS                      3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kyo-page/Kyo-page/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:58:09 UTC
+ Last Updated on 03/02/2026 19:24:38 UTC
 <!--END_SECTION:waka-->
