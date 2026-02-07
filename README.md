@@ -5,9 +5,28 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyo-page&theme=react&utcOffset=9)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C994%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C996%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               8 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
+SCSS                     3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+PHP                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+HTML                     2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+
+🔥 Editors: 
+Cursor                   19 hrs 30 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      19 hrs 30 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -24,5 +43,5 @@ CSS                      3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kyo-page/Kyo-page/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 19:11:27 UTC
+ Last Updated on 07/02/2026 18:58:17 UTC
 <!--END_SECTION:waka-->
