@@ -15,25 +15,25 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
-SCSS                     3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-PHP                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-HTML                     2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+TypeScript               6 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.55 % 
+SCSS                     3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+PHP                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+HTML                     2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 30 mins      █████████████████████████   100.00 % 
+Cursor                   17 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+CSS                      3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 ```
 
 
@@ -43,5 +43,5 @@ CSS                      3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kyo-page/Kyo-page/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 18:58:17 UTC
+ Last Updated on 08/02/2026 19:00:12 UTC
 <!--END_SECTION:waka-->
