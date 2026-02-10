@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kyo-page&theme=react&utcOffset=9)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C996%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C996%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,17 +15,17 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.31 % 
-PHP                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-SCSS                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-HTML                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-JavaScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+TypeScript               8 hrs 26 mins       ██████████████░░░░░░░░░░░   54.63 % 
+PHP                      2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+SCSS                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+HTML                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 12 mins      █████████████████████████   100.00 % 
+Cursor                   15 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -43,5 +43,5 @@ CSS                      3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kyo-page/Kyo-page/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2026 19:45:16 UTC
+ Last Updated on 10/02/2026 19:37:10 UTC
 <!--END_SECTION:waka-->
