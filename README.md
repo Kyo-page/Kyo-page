@@ -15,17 +15,17 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-SCSS                     2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-HTML                     2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-PHP                      1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+SCSS                     3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+TypeScript               3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+HTML                     3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+PHP                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 2 mins       █████████████████████████   100.00 % 
+Cursor                   11 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -43,5 +43,5 @@ CSS                      3 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kyo-page/Kyo-page/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 18:59:28 UTC
+ Last Updated on 16/02/2026 19:07:03 UTC
 <!--END_SECTION:waka-->
